@@ -1,0 +1,33 @@
+# Archivos de caché de Python y bytecode compilado
+# Estos se generan automáticamente y no deben estar en el repositorio.
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Carpetas de entorno virtual
+# Son específicas de cada máquina y pueden ser muy grandes.
+venv/
+env/
+.venv/
+.env/
+
+# Archivos y carpetas generados por PyInstaller
+# ¡Muy importante! Estos son los resultados de la compilación, no el código fuente.
+build/
+dist/
+*.spec
+
+# Configuraciones de editores de código comunes
+# Son ajustes personales y no pertenecen al proyecto.
+.vscode/
+.idea/
+
+# Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Cualquier otro archivo de log o temporal
+*.log
+
+.hypothesis/
