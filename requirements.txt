@@ -1,0 +1,7 @@
+setuptools>=70
+wheel>=0.43
+pandas
+openpyxl
+pyinstaller
+pyinstaller-hooks-contrib
+sv-ttk>=2.6.0

@@ -1,0 +1,9 @@
+id,brand,model,color,size,country,sku,price,stock,updated_at
+101,Acme,Runner,Black,42,ES,A100,19.99,48,2025-10-16
+102,Acme,Runner,White,41,ES,A101,25.49,15,2025-10-16
+103,Acme,Basics,Blue,M,ES,A102,9.99,118,2025-10-16
+105,BrandX,Pro,Black,One,ES,B200,29.99,12,2025-10-17
+106,CoolCo,Jacket,Green,L,FR,C300,39.99,5,2025-10-17
+107,Delta,Socks,Gray,U,ES,D400,12.49,210,2025-10-18
+108,Zebra,Cap,Black,U,ES,Z777,7.99,50,2025-10-18
+109,Acme,Runner,Black,42,IT,A100,19.49,20,2025-10-18
