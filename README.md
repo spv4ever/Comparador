@@ -2,7 +2,12 @@
 
 Herramienta de escritorio construida en Python para comparar dos ficheros (Excel o CSV), identificar diferencias a nivel de fila y de valor, y exportar los resultados. Ideal para tareas de conciliación de datos, auditorías o control de calidad de la información.
 
-![Captura de Pantalla de la Aplicación](screenshot.png)
+<img width="639" height="473" alt="image" src="https://github.com/user-attachments/assets/7b64bab5-b413-4d90-9e1f-4e7dc46b4397" />
+
+<img width="1191" height="822" alt="image" src="https://github.com/user-attachments/assets/1385d238-a9e3-4c7b-be54-8c10b643aebb" />
+
+
+
 
 ---
 
